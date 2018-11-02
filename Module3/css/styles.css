@@ -1,0 +1,13 @@
+body { 
+	font-size: 16px;
+	color: #000;
+	background-color: #4e4e4e;
+	font-family: 'Verdana', sans-serif;
+}
+
+/** HEADER **/
+#header {
+	background-color: #BE81F7;
+	border-radius: 0;
+	border: 0;
+}
