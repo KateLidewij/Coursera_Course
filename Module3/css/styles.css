@@ -7,7 +7,22 @@ body {
 
 /** HEADER **/
 #header {
-	background-color: #BE81F7;
+	background-color: #ff5733;
 	border-radius: 0;
 	border: 0;
+}
+
+#brand {
+	text-transform: uppercase;
+	color: #581845;
+}
+
+.page-header {
+	border-bottom: none;
+}
+
+#content {
+	background-color: #a8a5a7;
+	border: 1px solid #000;
+	height: 1000px;
 }
